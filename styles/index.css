@@ -64,8 +64,8 @@
    
 }
 
-.con-2 lottie-player{
-    width: 500px;
+.con-3 img{
+    width: 100%;
     height: 272px;
     opacity: 1;
     
@@ -612,4 +612,5 @@
     .clients-1 {
         justify-content: start;
     }
+    
 }
