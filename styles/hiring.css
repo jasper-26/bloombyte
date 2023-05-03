@@ -156,3 +156,51 @@
     font-size: 14px;
     font-weight: 300;
   }
+  .navbar-toggler {
+    color: #0b0e2b;
+    background-color: #141944;
+    border: var(--bs-border-width) solid #0e112e ;
+  }
+  .navbar-toggler-icon {
+      background-image: url("/images/1200px-Hamburger_icon_white.svg.png");
+  } 
+
+
+  @media(max-width: 1130px) {
+    .form-con {
+      margin: 3% 0;
+    }
+    .f-1 input, .f-2 input, .f-3 input, .f-2 select {
+      width: 170px;
+    }
+  }
+
+  
+@media(max-width: 992px) {
+  .form-img {
+    height: 100%;
+  } 
+  .form-img img {
+    width: 50%;
+    height: 50%;
+  }
+  .f-1 input, .f-2 input, .f-3 input, .f-2 select {
+    width: 230px;
+  }
+}
+
+@media(max-width: 768px) {
+  .f-1 input, .f-2 input, .f-3 input, .f-2 select {
+    width: 170px;
+  }
+}
+
+@media(max-width: 576px) {
+  .f-1 input, .f-2 input, .f-3 input, .f-2 select {
+    width: 100%;
+  }
+  .i-2, .i-3 {
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+}

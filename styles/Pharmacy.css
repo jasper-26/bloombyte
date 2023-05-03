@@ -27,7 +27,7 @@
   }
   /* ================================================ */
   dropdown {
-      float: left;
+      float: left; 
       overflow: hidden;
     }
     
@@ -158,6 +158,7 @@
   .f-1 input,.f-2 input{
     border: 1px solid #B2B2B2;
     padding: 10px 20px;
+    width: 280px;
   }
   
   .f-1 input::placeholder,.f-2 input::placeholder,.form-item textarea::placeholder{
@@ -174,7 +175,7 @@
   .form-item textarea{
     border: 1px solid #B2B2B2;
     padding: 10px 20px;
-    width: 510px;
+    width: 590px;
   }
   
   .form-item button{
@@ -203,3 +204,100 @@
     font-size: 14px;
     font-weight: 300;
   }
+  .navbar-toggler {
+    color: #0b0e2b;
+    background-color: #141944;
+    border: var(--bs-border-width) solid #0e112e ;
+  }
+  .navbar-toggler-icon {
+      background-image: url("/images/1200px-Hamburger_icon_white.svg.png");
+  }
+  
+@media(max-width: 1130px) {
+  .list-1, .list-2, .list-3 {
+    width: 300px;
+  }
+  .f-1 input, .f-2 input {
+    width: 200px;
+  }
+  .form-item textarea {
+    width: 430px;
+  }
+
+}
+
+@media(max-width: 992px) {
+  .list-1, .list-2, .list-3 {
+    width: 250px;
+  }
+  .list-items {
+    padding: 3% 2% 1.7% 2%;
+    gap: 10px;
+    justify-content: center;
+  }
+  .f-1 input, .f-2 input {
+    width: 200px;
+  }
+  .form-item textarea {
+    width: 430px;
+  }
+}
+
+@media(max-width: 768px) {
+  .list-1, .list-2, .list-3 {
+    width: 250px;
+  }
+  .list-items {
+    gap: 25px;
+  }
+  .suite-2 img {
+    padding-top: 20px;
+  }
+  .f-1 input, .f-2 input {
+    width: 250px;
+  }
+  .form-item textarea {
+    width: 530px;
+  }
+  .form-img img {
+    width: 60%;
+    height: 60%;
+  }
+  .form-img{
+    padding-top: 20px;
+    height: 100%;
+  }
+}
+
+@media(max-width: 576px) {
+  .list-1, .list-2, .list-3 {
+    width: 48%;
+  }
+  .list-items {
+    padding: 3% 2% 1.7% 2%;
+    gap: 10px;
+    width: 100%;
+  }
+  
+  .suite-2 img {
+    padding-top: 20px;
+  }
+  .f-1 input, .f-2 input {
+    width: 100%;
+  }
+  .form-item textarea {
+    width: 100%;
+  }
+  .i-2, .i-3 {
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+  .i-2, .i-4 {
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+  .f-2 {
+    padding: 0% 0 3% 0;
+  }
+
+}

@@ -148,7 +148,7 @@
         font-weight: 400;
         padding-bottom: 15px;
     }
-    .list-1{
+    .list-1,.list-2{
         text-align: center;
         background-color: #FFFFFF;
         width: 250px;
@@ -158,7 +158,7 @@
         box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     }
       
-    .list-1 img{
+    .list-1 img,.list-2 img{
         width: 70px;
         height: 70px;
         margin-bottom: 15px;
@@ -180,11 +180,11 @@
         background-color: #D8F3CF;
     }
     
-    .list-1 h4{
+    .list-1 h4,.list-2 h4{
         font-size: 20px;
         color: #141944;
     }
-    .list-1 p{
+    .list-1 p,.list-2 p{
         font-size: 14px;
         color: #646464;      
      }
@@ -229,6 +229,7 @@
   .f-1 input,.f-2 input{
     border: 1px solid #B2B2B2;
     padding: 10px 20px;
+    width: 280px;
   }
   
   .f-1 input::placeholder,.f-2 input::placeholder,.form-item textarea::placeholder{
@@ -245,7 +246,7 @@
   .form-item textarea{
     border: 1px solid #B2B2B2;
     padding: 10px 20px;
-    width: 510px;
+    width: 590px;
   }
   
   .form-item button{
@@ -273,4 +274,113 @@
     padding: 3% 5% 2% 5%;
     font-size: 14px;
     font-weight: 300;
+  }
+  .navbar-toggler {
+    color: #0b0e2b;
+    background-color: #141944;
+    border: var(--bs-border-width) solid #0e112e ;
+  }
+  .navbar-toggler-icon {
+      background-image: url("/images/1200px-Hamburger_icon_white.svg.png");
+  }
+
+
+  @media(max-width: 1130px) {
+    .list-1,.list-2 {
+      width: 200px;
+      padding: 0px 1%;
+    }
+    .f-1 input, .f-2 input {
+      width: 200px;
+    }
+    .form-item textarea {
+      width: 430px;
+    }
+  }
+
+  
+  @media(max-width: 992px) {
+    .list-1,.list-2 {
+      width: 200px;
+      padding: 0px 1%;
+    }
+    .educ-items {
+      padding: 4.5% 1% 1.7% 1%;
+      margin: 0%;
+      column-gap: 15px;
+      justify-content: center;
+    }
+    .f-1 input, .f-2 input {
+      width: 200px;
+    }
+    .form-item textarea {
+      width: 430px;
+    }
+  }
+
+  
+  @media(max-width: 768px) {
+    .list-1,.list-2 {
+      width: 250px;
+      padding: 0px 1%;
+    }
+    .list-1{
+      margin-top: 3%;
+
+    }
+    .list-2{
+      margin-top: 12%;
+    }
+    .educ-items {
+      padding: 4.5% 1% 1.7% 1%;
+      margin: 0%;
+      column-gap: 15px;
+      justify-content: center;
+    }
+    .f-1 input, .f-2 input {
+      width: 250px;
+    }
+    .form-item textarea {
+      width: 530px;
+    }
+    .form-img img {
+      width: 60%;
+      height: 60%;
+    }
+    .form-img{
+      padding-top: 20px;
+      height: 100%;
+    }
+  }
+
+  
+  @media(max-width: 576px) {
+    .list-1,.list-2 {
+      width: 48%;
+      padding: 0px 1%;
+    }
+    .list-1{
+      margin-top: 5%;
+    }
+    .list-2{
+      margin-top: 15%;
+    }
+    
+    .f-1 input, .f-2 input {
+      width: 100%;
+    }
+    .form-item textarea {
+      width: 100%;
+    }
+    .i-2, .i-3 {
+      margin-top: 20px;
+      margin-left: 0%;
+    }
+    .i-2, .i-4 {
+      margin-top: 20px;
+      margin-left: 0%;
+    }
+    .f-2 {
+      padding: 0% 0 3% 0;
+    }
   }

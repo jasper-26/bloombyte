@@ -113,6 +113,8 @@
   .f-1 input,.f-2 input{
     border: 1px solid #B2B2B2;
     padding: 10px 20px;
+    width: 280px;
+
   }
   
   .f-1 input::placeholder,.f-2 input::placeholder,.form-item textarea::placeholder{
@@ -129,7 +131,7 @@
   .form-item textarea{
     border: 1px solid #B2B2B2;
     padding: 10px 20px;
-    width: 510px;
+    width: 590px;
   }
   
   .form-item button{
@@ -158,3 +160,76 @@
     font-size: 14px;
     font-weight: 300;
   }
+
+
+  .navbar-toggler {
+    color: #0b0e2b;
+    background-color: #141944;
+    border: var(--bs-border-width) solid #0e112e ;
+  }
+  .navbar-toggler-icon {
+      background-image: url("/images/1200px-Hamburger_icon_white.svg.png");
+  }
+  
+@media(max-width: 1130px) {
+  .f-1 input, .f-2 input {
+    width: 200px;
+  }
+  .form-item textarea {
+    width: 430px;
+  }
+}
+
+@media(max-width: 992px) {
+  .f-1 input, .f-2 input {
+    width: 200px;
+  }
+  .form-item textarea {
+    width: 430px;
+  }
+}
+
+  
+@media(max-width: 768px) {
+  .suite-2 img {
+    padding-top: 20px;
+  }
+  .f-1 input, .f-2 input {
+    width: 250px;
+  }
+  .form-item textarea {
+    width: 530px;
+  }
+  .form-img img {
+    width: 60%;
+    height: 60%;
+  }
+  .form-img{
+    padding-top: 20px;
+    height: 100%;
+  }
+}
+
+@media(max-width: 576px) {
+  .suite-2 img {
+    padding-top: 20px;
+  }
+  .f-1 input, .f-2 input {
+    width: 100%;
+  }
+  .form-item textarea {
+    width: 100%;
+  }
+  .i-2, .i-3 {
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+  .i-2, .i-4 {
+    margin-top: 20px;
+    margin-left: 0%;
+  }
+  .f-2 {
+    padding: 0% 0 3% 0;
+  }
+
+}
