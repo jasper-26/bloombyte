@@ -282,6 +282,9 @@
     .suite-2 img {
       padding-top: 20px;
     }
+    .e-com-2 ol, ul {
+      padding-left: 2%;
+    }
     .f-1 input, .f-2 input {
       width: 100%;
     }

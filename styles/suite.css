@@ -523,7 +523,10 @@ margin: 0%;
   .suite-2 img {
     padding-top: 15px;
   }
-
+  .super-img img {
+    width: 100%;
+    height: 90%;
+}
 
   .banner-sub h3 {
     padding: 0;
