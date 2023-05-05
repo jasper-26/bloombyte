@@ -581,5 +581,13 @@ margin: 0%;
   .f-2 {
     padding: 0% 0 3% 0;
   }
+  .foot-links {
+    display: block;
+    justify-content: center;
+    padding-top: 15px;
+  }
+  .foot-pages {
+    padding-left: 0%;
+  }
 
 }
