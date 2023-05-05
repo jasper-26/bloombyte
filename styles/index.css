@@ -22,8 +22,8 @@
     color: white;
 }
 .navbar-logo img{
-    width: 200px;
-    height: 40px;
+    width: 180px;
+    height: 50px;
 }
 /* ================================================ */
 dropdown {
@@ -270,6 +270,10 @@ dropdown {
     justify-content: space-around;
     row-gap: 25px;
 }
+.spec-con a{
+    text-decoration: none;
+    color: #141944;
+}
 .arrow{
     width: 25px;
     height: 25px;
@@ -310,7 +314,6 @@ dropdown {
 .sp-con-2 p,.sp-con-3 p,.sp-con-4 p,.sp-con-5 p,.sp-con-6 p,.sp-con-7 p{
     font-size: 12px;
     font-weight: 300;
-
 }
 
 .sp-con-8{
