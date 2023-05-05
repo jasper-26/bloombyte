@@ -83,8 +83,8 @@
     font-weight: 300;
   }
   .reqbtn i{
-    padding-left: 30px;
-  
+    padding: 0px 0 0 30px;
+    font-size: 20px;
   }
 
   /* ================================= */
@@ -146,17 +146,49 @@
     justify-content: center;
   }
   
-  .footer{
-    background: #141944;
-    height: 15vh;
-  }
-  
-  .footer h6{
-    color: white;
-    padding: 3% 5% 2% 5%;
-    font-size: 14px;
-    font-weight: 300;
-  }
+  /* ----------------------------------------- */
+.footer{
+  background: #141944;
+  height: 100%;
+  padding: 3% 5%;
+}
+
+.foot-logo img{
+  width: 200px;
+  height: 50px;
+}
+.foot-links{
+  display: flex;
+  justify-content: end;
+}
+.foot-services-link,.foot-pages-link{
+  display: flex;
+  column-gap: 30px;
+}
+.foot-pages{ 
+  padding-left: 8%;
+}
+.foot-service ul,.foot-pages ul{
+  list-style: none;
+  padding-left: 0%;
+}
+.foot-service h5,.foot-pages h5{
+  color: white;
+  padding-bottom: 10px;
+  font-size: 22px;
+}
+.foot-service ul li a,.foot-pages ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+.footer h6{
+  color: white;
+  /* padding: 3% 5% 2% 5%; */
+  font-size: 14px;
+  font-weight: 300;
+  /* text-align: center; */
+}
   .navbar-toggler {
     color: #0b0e2b;
     background-color: #141944;
