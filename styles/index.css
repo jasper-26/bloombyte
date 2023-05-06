@@ -413,7 +413,7 @@ dropdown {
 }
 .clients-2{
     row-gap: 35px;
-    padding: 0% 23% 2% 23%;
+    padding: 0% 15% 2% 15%;
 }
 .clients-1 h1{
     text-align: center;
@@ -444,7 +444,7 @@ dropdown {
 }
 
 .client-2 img{
-    width: 250px;
+    width: 350px;
     height: 60px;
 }
 
@@ -561,10 +561,7 @@ dropdown {
         padding: 0% 0%;
         width: 200px;
     }
-    .clients-2 {
-        row-gap: 35px;
-        padding: 0% 0% 2% 5%;
-    }
+   
     .box {
         padding-right: 0%;
     }
@@ -637,7 +634,7 @@ dropdown {
     }
     .clients-2 {
         row-gap: 25px;
-        padding: 0% 2% 0% 15%;
+        padding: 0% 2% 0% 5%;
     }
     
     .title {
