@@ -1,0 +1,52 @@
+.removelicon>li{
+    list-style-type: none;
+}
+.hovernow:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
+.hovernow{
+    border: 2px solid #a2a2d4;
+    padding: 10px;
+    border-collapse: collapse;
+    opacity: 1;
+    transform: none;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+    transition: box-shadow 0.3s ease-in-out;
+}
+ul {
+    padding-left: 0rem !important;
+}
+.pgcolor_inventory{
+    background-color:#141a45;
+}
+.pgcolor_scan{
+    background-color:#141a45;
+}
+
+.color_white{
+    color:#fff;
+}
+.mt_6rem{
+    margin-top:6rem;
+}
+.ml-6rem{
+ margin-left : 6rem;
+}
+.pl-4rem{
+    padding-left:4rem;
+}
+.img{
+    width:100%;
+}
+.zoom {
+  padding: 5px;
+  transition: transform .2s; 
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.25); 
+}
+.mlrtb {
+    margin: 1rem;
+}

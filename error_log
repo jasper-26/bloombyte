@@ -1,0 +1,4 @@
+[28-Jul-2023 10:56:32 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/mncacjmx/public_html/bloombyte.io/contactform.php on line 73
+[28-Jul-2023 10:57:06 UTC] PHP Warning:  Unterminated comment starting line 73 in /home/mncacjmx/public_html/bloombyte.io/contactform.php on line 73
+[28-Jul-2023 11:10:00 UTC] PHP Warning:  mail() expects at least 3 parameters, 1 given in /home/mncacjmx/public_html/bloombyte.io/contactform.php on line 72
+[28-Jul-2023 11:19:32 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/mncacjmx/public_html/bloombyte.io/contactform.php on line 38

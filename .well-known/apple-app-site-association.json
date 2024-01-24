@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "details": [
+             {
+               "appIDs": [ "com.smv.bloombyte" ],
+               "components": [
+                 {
+                    "/": "/*",
+                    "comment": "Matches any URL to this subdomain"
+                 }
+               ]
+             }
+         ]
+     }
+  }

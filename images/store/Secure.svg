@@ -1,0 +1,19 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="65" height="64" fill="#F5F5F5"/>
+<rect width="1920" height="5655" transform="translate(-318 -4426)" fill="white"/>
+<path d="M-318 -134H1602V768H-318V-134Z" fill="#F7F8FF"/>
+<path d="M-56.5 -21C-56.5 -37.5685 -43.0685 -51 -26.5 -51H592.5C609.068 -51 622.5 -37.5685 622.5 -21V271C622.5 287.569 609.068 301 592.5 301H-26.5C-43.0686 301 -56.5 287.569 -56.5 271V-21Z" fill="white"/>
+<circle cx="32.5" cy="32" r="32" fill="url(#paint0_linear_0_1)"/>
+<mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="14" y="14" width="36" height="36">
+<rect x="14" y="14" width="36" height="36" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+<path d="M29.75 36.5H34.25L33.3875 31.6625C33.8875 31.4125 34.2813 31.05 34.5688 30.575C34.8563 30.1 35 29.575 35 29C35 28.175 34.7063 27.4688 34.1188 26.8813C33.5313 26.2937 32.825 26 32 26C31.175 26 30.4688 26.2937 29.8813 26.8813C29.2937 27.4688 29 28.175 29 29C29 29.575 29.1438 30.1 29.4312 30.575C29.7188 31.05 30.1125 31.4125 30.6125 31.6625L29.75 36.5ZM32 47C28.525 46.125 25.6562 44.1313 23.3938 41.0188C21.1313 37.9063 20 34.45 20 30.65V21.5L32 17L44 21.5V30.65C44 34.45 42.8687 37.9063 40.6063 41.0188C38.3438 44.1313 35.475 46.125 32 47Z" fill="#F0F2FF"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="5.5" y1="6.5" x2="62.5" y2="65.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#32BDEF"/>
+<stop offset="1" stop-color="#0E89DA"/>
+</linearGradient>
+</defs>
+</svg>

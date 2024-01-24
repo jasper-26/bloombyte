@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords"
+        content="Best Ecommerce App Platform,The Future of Retail,e-commerce services, Bloombyte E-Commerce App, Mobile E-Commerce Apps,Buy E-Commerce Apps,Discover the E-Commerce App by Bloombyte" />
+    <meta name="description"
+        content="Personalized E-commerce App: Your Needs, Our Priority,Best online shopping apps" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta property="og:title" content="E-commerce Application Development Company | Bloombyte" />
+    <meta property="og:keywords" content="Ecommerce app development, top ecommerce platform, ecommerce marketing,Best Ecommerce Android App,Best Ecommerce IOS App,
+    App development for online shops, Best Ecommerce App Platform,Best eCommerce SaaS Platform,Online store app" />
+    <meta property="og:description"
+        content="Building an Ecommerce App from Scratch,ecommerce mobile app providers, mobile app development,ecommerce app solutions" />
+    <meta name="twitter:description"
+        content="Online shopping, made easy with BloomByte, Grow your business, All-In-One, E-Commerce Solution,boost your sales with our e-commerce software" />
+    <title>User-Friendly E-Commerce App by Bloombyte</title>
+    <link href="images/favicon.png" rel="icon" />
+    <link rel="stylesheet" href="./indexNew.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" />
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+    </style>
+    <!-- Google tag (gtag.js) Google Ads:11394324837 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11394324837"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+
+        gtag("config", "AW-11394324837");
+    </script>
+    <!-- Google tag (gtag.js) Google Analytics-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8N7XXZ0WJ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-Y8N7XXZ0WJ");
+    </script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <section class="home" id="header">
+        <div class="title-content">
+            <nav class="navbar navbar-expand-md">
+                <a href="https://bloombyte.io/" class="navbar-logo"><img src="images/logo.png" alt="" /></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://bloombyte.io/"
+                                    title="Best online shopping apps"><h5 class="hfont">Home</h5></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link active" href="/ecommerce-software"
+                                    title="Best online shopping apps"><h5 class="hfont">Bloombyte Store</h5></a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="nav-link" href="https://myclinichealth.in" target="_blank"
+                                title="Best online shopping apps"><h5 class="hfont">My Clinic</h5></a>
+                        </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/super-market-software"
+                                    title="Super Market Software"><h5 class="hfont">Supermarket Software</h5></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/contact" title="Best online shopping apps"><h5 class="hfont">Contact</h5></a>
+                            </li>
+                    </ul>
+                    <div class="nav navbar-nav navbar-right">                
+                        <a href="https://bloombyte.io/demo" class="btn-1" role="button">Request a Demo <img src="./images/homepage/right_arrow.png"
+                            alt="ecommerce marketing" /></a>
+                     </div>
+                </div>
+            </nav>
+        </div>
+    </section>
+
+    <div class="container-fluid">
+        <div class="row mb-5 center-content">
+            <div class="col-lg-6 col-md-6 col-12 textLpadding textRpadding">
+                <h1 class="home-title">E-Commerce App</h1>
+                <h1 class="home-subtitle">The Future of Retail</h1>
+                <p class="paddng10">
+                    The retail landscape is changing rapidly, and e-commerce apps are
+                    playing a major role in this change. More and more people are
+                    shopping online, and e-commerce apps are making it easier than ever
+                    for people to do so.
+                </p>
+                <p>
+                    E-Commerce apps offer a wider selection of products than traditional
+                    stores. You can find everything from clothes and electronics to home
+                    goods and groceries.
+                </p>
+                <p>
+                    As the retail landscape continues to change, e-commerce apps will
+                    become even more important for selling products online.
+                </p>
+
+                <div class="h-btn">
+                    <a href="https://bloombyte.io/demo" class="btn-1" role="button">Request a Demo <img src="./images/homepage/right_arrow.png"
+                        alt="Read More about Bloombyte E-Commerce App" /></a>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <img src="./images/store/eggws.webp" alt="top ecommerce platform" class="img-responsive wid100" />
+            </div>
+            <hr class="rounded" />
+        </div>
+        <div class="row mb-5">
+            <h1 class="home-title text-center">Best Ecommerce App Platform</h1>
+            <svg xmlns="http://www.w3.org/2000/svg" width="236" height="8" viewBox="0 0 236 8" fill="none">
+                <path
+                    d="M0 4C0 1.79086 1.79086 0 4 0H232C234.209 0 236 1.79086 236 4C236 6.20914 234.209 8 232 8H4.00001C1.79087 8 0 6.20914 0 4Z"
+                    fill="#F7536E" />
+            </svg>
+            <div class="row center-content bgclr mt-5">
+                <div class="col-lg-6 col-md-6 col-12">
+                    <img src="./images/store/Test_3.webp" alt="E-Commerce business" class="center wid100" />
+                </div>
+                <div class="col-lg-6 col-md-6 col-12 homepadng">
+                    <h1 class="home-title">Dashboard</h1>
+                    <p class="textvar paddng10">
+                        An Admin Dashboard with integrated reports offers a range of
+                        advantages that can significantly improve user experience and
+                        decision-making processes. Let's delve into these benefits in more
+                        detail:
+                    </p>
+                    <h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                            <mask id="mask0_17_143" style="mask-type: alpha" maskUnits="userSpaceOnUse" x="0" y="0"
+                                width="24" height="24">
+                                <rect width="24" height="24" fill="#D9D9D9" />
+                            </mask>
+                            <g mask="url(#mask0_17_143)">
+                                <path
+                                    d="M8 12C7.71667 12 7.47917 12.0958 7.2875 12.2875C7.09583 12.4792 7 12.7167 7 13V16C7 16.2833 7.09583 16.5208 7.2875 16.7125C7.47917 16.9042 7.71667 17 8 17C8.28333 17 8.52083 16.9042 8.7125 16.7125C8.90417 16.5208 9 16.2833 9 16V13C9 12.7167 8.90417 12.4792 8.7125 12.2875C8.52083 12.0958 8.28333 12 8 12ZM16 7C15.7167 7 15.4792 7.09583 15.2875 7.2875C15.0958 7.47917 15 7.71667 15 8V16C15 16.2833 15.0958 16.5208 15.2875 16.7125C15.4792 16.9042 15.7167 17 16 17C16.2833 17 16.5208 16.9042 16.7125 16.7125C16.9042 16.5208 17 16.2833 17 16V8C17 7.71667 16.9042 7.47917 16.7125 7.2875C16.5208 7.09583 16.2833 7 16 7ZM12 14C11.7167 14 11.4792 14.0958 11.2875 14.2875C11.0958 14.4792 11 14.7167 11 15V16C11 16.2833 11.0958 16.5208 11.2875 16.7125C11.4792 16.9042 11.7167 17 12 17C12.2833 17 12.5208 16.9042 12.7125 16.7125C12.9042 16.5208 13 16.2833 13 16V15C13 14.7167 12.9042 14.4792 12.7125 14.2875C12.5208 14.0958 12.2833 14 12 14ZM5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H19C19.55 3 20.0208 3.19583 20.4125 3.5875C20.8042 3.97917 21 4.45 21 5V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM5 19H19V5H5V19ZM12 12C12.2833 12 12.5208 11.9042 12.7125 11.7125C12.9042 11.5208 13 11.2833 13 11C13 10.7167 12.9042 10.4792 12.7125 10.2875C12.5208 10.0958 12.2833 10 12 10C11.7167 10 11.4792 10.0958 11.2875 10.2875C11.0958 10.4792 11 10.7167 11 11C11 11.2833 11.0958 11.5208 11.2875 11.7125C11.4792 11.9042 11.7167 12 12 12Z"
+                                    fill="#F7536E" />
+                            </g>
+                        </svg>
+                        Data Visualization and Clarity
+                    </h3>
+                    <p class="textvar paddng10">
+                        Reports presented through the Dashboard use visual elements such
+                        as graphs, charts, and tables to distill complex data into easily
+                        understandable formats. This visual clarity helps administrators
+                        quickly grasp trends, patterns, and insights without needing to
+                        delve into raw data.
+                    </p>
+                    <h3>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                            <mask id="mask0_17_146" style="mask-type: alpha" maskUnits="userSpaceOnUse" x="0" y="0"
+                                width="24" height="24">
+                                <rect width="24" height="24" fill="#D9D9D9" />
+                            </mask>
+                            <g mask="url(#mask0_17_146)">
+                                <path
+                                    d="M11.05 14.5L15.2 11.85C15.5 11.65 15.65 11.3667 15.65 11C15.65 10.6333 15.5 10.35 15.2 10.15L11.05 7.5C10.7167 7.28333 10.375 7.26667 10.025 7.45C9.675 7.63333 9.5 7.925 9.5 8.325V13.675C9.5 14.075 9.675 14.3667 10.025 14.55C10.375 14.7333 10.7167 14.7167 11.05 14.5ZM4 19C3.45 19 2.97917 18.8042 2.5875 18.4125C2.19583 18.0208 2 17.55 2 17V5C2 4.45 2.19583 3.97917 2.5875 3.5875C2.97917 3.19583 3.45 3 4 3H20C20.55 3 21.0208 3.19583 21.4125 3.5875C21.8042 3.97917 22 4.45 22 5V17C22 17.55 21.8042 18.0208 21.4125 18.4125C21.0208 18.8042 20.55 19 20 19H16V20C16 20.2833 15.9042 20.5208 15.7125 20.7125C15.5208 20.9042 15.2833 21 15 21H9C8.71667 21 8.47917 20.9042 8.2875 20.7125C8.09583 20.5208 8 20.2833 8 20V19H4ZM4 17H20V5H4V17Z"
+                                    fill="#F7536E" />
+                            </g>
+                        </svg>
+                        Real-time Monitoring and Reaction
+                    </h3>
+                    <p class="textvar paddng10">
+                        The reports provide real-time updates on key metrics, enabling
+                        administrators to monitor performance, user activities, and other
+                        critical factors as they happen. This real-time insight allows for
+                        swift reactions to changing conditions, preventing potential
+                        issues and maximizing opportunities.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="row center-content imgOrderView mb-5">
+            <img class="imgOrderView" src="#" alt="e-commerce services" />
+        </div>
+    </div>
+    <div class="row mb-5">
+     <h1 class="home-title text-center">
+                Discover the unique features of our app!
+            </h1>
+            <svg xmlns="http://www.w3.org/2000/svg" width="236" height="8" viewBox="0 0 236 8" fill="none">
+                <path
+                    d="M0 4C0 1.79086 1.79086 0 4 0H232C234.209 0 236 1.79086 236 4C236 6.20914 234.209 8 232 8H4.00001C1.79087 8 0 6.20914 0 4Z"
+                    fill="#F7536E" />
+            </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="236" height="8" viewBox="0 0 236 8" fill="none">
+            <path
+                d="M0 4C0 1.79086 1.79086 0 4 0H232C234.209 0 236 1.79086 236 4C236 6.20914 234.209 8 232 8H4.00001C1.79087 8 0 6.20914 0 4Z"
+                fill="#F7536E" />
+        </svg>
+        <div class="bgclr mt-4 py-4">
+            <div class="container">
+                <div class="row mt-3 boxApp">  
+                    <div class="col-sm-6 text-left p-3 p-5">   <h3 class="pt-4"></h3>
+                               <img src="https://bloombyte.io/images/store/Subscription.webp" width="100%" alt="Share Product" />
+                    </div>
+                    <div class="col-sm-6 text-left p-3 p-5">
+                        <h3 class="paddng10 pt-11">Subscription Order</h3>
+                        <p class="paddng10 text-justify flipbox">
+                           Subscription orders can help you to predict demand for your products, which can help you to better manage your inventory. Keep subscribers engaged and informed with automated notifications about upcoming deliveries and exclusive offers.
+                        </p>
+                    </div>
+                </div>
+                <div class="row mt-3 boxApp"> 
+                    <div class="col-sm-6 text-left p-3 p-5">
+                        <h3 class="paddng10 pt-11">Track Order</h3>
+                        <p class="paddng10 text-justify flipbox">
+                         The Track order feature can help to increase customer satisfaction by giving customers peace of mind knowing that they can track their order from start to finish. This can help to reduce the number of customer inquiries about order status, and it can also help to improve customer loyalty.
+                         </p>
+                    </div>
+                    <div class="col-sm-6 text-left p-3 p-5">
+                               <img src="https://bloombyte.io/images/store/TrackOrder.webp" width="100%" alt="Share Product" />
+                    </div>
+                </div>
+                <div class="row mt-3 boxApp"> 
+                    <div class="col-sm-6 text-left p-3 p-5">
+                        <h3 class="paddng10 pt-11">Coupon</h3>
+                        <p class="paddng10 text-justify flipbox">
+                         Create enticing discounts that motivate customers to make
+                                    purchases, boosting your revenue and expanding your customer
+                                    base. Easily apply coupon codes during checkout with a
+                                    simple tap, providing a frictionless experience for your
+                                    customers.
+                         </p>
+                    </div>
+                    <div class="col-sm-6 text-left p-3 p-5">
+                               <img src="https://bloombyte.io/images/store/Coupon.webp" width="100%" alt="Share Product" />
+                    </div>
+                </div>
+                <div class="row mt-3 boxApp"> 
+                <div class="col-sm-6 text-left p-3 p-5">
+                               <img src="https://bloombyte.io/images/store/Share.webp" width="100%" alt="Share Product" />
+                    </div>
+                    <div class="col-sm-6 text-left p-3 p-5">
+                        <h3 class="paddng10 pt-11">Share Product</h3>
+                        <p class="paddng10 text-justify flipbox">
+                         Create enticing discounts that motivate customers to make
+                                    purchases, boosting your revenue and expanding your customer
+                                    base. Easily apply coupon codes during checkout with a
+                                    simple tap, providing a frictionless experience for your
+                                    customers.
+                         </p>
+                    </div>
+                    
+                </div>
+                <div class="row mt-3 boxApp"> 
+                    <div class="col-sm-6 text-left p-3 p-5">
+                        <h3 class="paddng10 pt-11">Invite your friend</h3>
+                        <p class="paddng10 text-justify flipbox">
+                         The invite your friend feature can help you to reach a wider
+                                    audience by tapping into your existing customers' networks.
+                                    When your customers invite their friends to your app, you're
+                                    able to connect with new potential customers who are already
+                                    interested in what you have to offer
+                                
+                         </p>
+                    </div>
+                    <div class="col-sm-6 text-left p-3 p-5">
+                               <img src="https://bloombyte.io/images/store/Invite.webp" width="100%" alt="Share Product" />
+                    </div>
+                </div>
+               <div class="row mt-3 boxApp"> 
+               <div class="col-sm-6 text-left p-3 p-5">
+                               <img src="https://bloombyte.io/images/store/Wallet.webp" width="100%" alt="Share Product" />
+                    </div>
+                    <div class="col-sm-6 text-left p-3 p-5">
+                        <h3 class="paddng10 pt-11">Wallet</h3>
+                        <p class="paddng10 text-justify flipbox">
+                                    Our e-wallet feature also supports hybrid payments, which
+                                    means that customers can use a combination of their e-wallet
+                                    and their credit or debit card to pay for their purchases.
+                                    Hassle-free refunds directly to your e-wallet, ensuring a
+                                    seamless customer experience.
+                         </p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mb-5">
+        <h1 class="home-title text-center">
+            Personalized E-commerce App: Your Needs, Our Priority
+        </h1>
+        <svg xmlns="http://www.w3.org/2000/svg" width="236" height="8" viewBox="0 0 236 8" fill="none">
+            <path
+                d="M0 4C0 1.79086 1.79086 0 4 0H232C234.209 0 236 1.79086 236 4C236 6.20914 234.209 8 232 8H4.00001C1.79087 8 0 6.20914 0 4Z"
+                fill="#F7536E" />
+        </svg>
+        <div class="bgclr mt-4 py-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm text-left boxApp p-5 m-2 bgnum01">
+                        <img src="./images/store/Secure.svg" alt="Secure Payments" />
+                        <h3 class="paddng10">Secure Payments</h3>
+                        <p class="paddng10">
+                            At Secure Payments, we understand the importance of keeping your
+                            customers' information safe and secure. That's why we offer
+                            highly advanced and state-of-the-art security measures to
+                            protect your transactions.
+                        </p>
+                    </div>
+                    <div class="col-sm boxApp p-5 m-2 bgnum02">
+                        <img src="./images/store/CustomerSupp.svg" alt="Customer Support" />
+                        <h3 class="paddng10">24/7 Support</h3>
+                        <p class="paddng10">
+                            Our commitment to customer satisfaction is unparalleled, and our
+                            friendly and knowledgeable team is always ready to assist you
+                            with any queries or concerns you may have.
+                        </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm boxApp p-5 m-2 bgnum03">
+                        <img src="./images/store/Crafting.svg" alt="Crafting App" />
+                        <h3 class="paddng10">Crafting Apps for Individuality</h3>
+                        <p class="paddng10">
+                            We believe in the power of individuality and strive to craft
+                            apps that reflect the unique identity of each business, helping
+                            them to sell products online in a way that is authentic and
+                            engaging.
+                        </p>
+                    </div>
+                    <div class="col-sm boxApp p-5 m-2 bgnum04">
+                        <img src="./images/store/Reg_updates.svg"
+                            alt="Regular Updates and Maintenance for Ecommerce App" />
+                        <h3 class="paddng10">Regular Updates and Maintenance</h3>
+                        <p class="paddng10">
+                            Our team can actively manage changes to improve your digital
+                            service, allowing you to focus on your day to day business
+                            activities.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row homepadng bgclr">
+        <div class="col-xxl-5 col-xl-4 col-lg-5 col-12 center-content p-4">
+            <a href="https://bloombyte.io/"><img src="./images/logo.png" alt="Bloombyte Logo" /></a>
+            <h6 class="pl-10 pt-10">© 2023 Bloombyte</h6>
+        </div>
+        <div class="col-xxl-7 col-xl-8 col-lg-7 col-12 p-3 center-footerCont">
+            <div class="row center-content">
+                <div class="col-sm-8 col-lg-8 col-xl-9 p-1">
+                    <h3>Request a personalized demo of E-Commerce Apps</h3>
+                </div>
+                <div class="col-sm-4 col-lg-4 col-xl-3 p-1">
+                    <a href="https://bloombyte.io/demo" class="btn-1" role="button">Request a Demo <img src="./images/homepage/right_arrow.png"
+                        alt="Elevate your online business" /></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="footer" id="footer">
+        <div class="container-fluid footer-con footecom pt_20p pb-3">
+            <div class="row footer-con center-content">
+                <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12 foot-logo applogo pt-3">
+                    <div class="row">
+                        <div class="col-lg-6 col-sm-6">
+                            <a href="https://apps.apple.com/us/app/bloombyte-online-store/id6462687921?platform=iphone"
+                                target="_blank" class="applink" title="Best online shopping apps">
+                                <img src="./images/homepage/apple_logo.png" class="img-responsive wid75"
+                                    alt="Best Ecommerce IOS App" />
+                            </a>
+                        </div>
+                        <div class="col-lg-6 col-sm-6">
+                            <a href="https://play.google.com/store/apps/details?id=com.smv.bloombyte&pcampaignid=web_share"
+                                target="_blank" class="applink" title="Best online shopping apps">
+                                <img src="./images/homepage/android.png" class="img-responsive wid75"
+                                    alt="Best Ecommerce Android App" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-5 col-sm-12 col-6 dispflex pt-3">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 foot-linksecom">
+                        <a class="pt_20p" href="https://bloombyte.io" title="Best online shopping apps"><h5 class="wfont">Home</h5></a>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-3 col-6 foot-linksecom">
+                        <a class="pt_20p" href="/about-us" title="Best online shopping apps">
+                            <h5 class="wfont">About Us</h5></a>
+                    </div>
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-4 col-6 foot-linksecom">
+                        <a class="pt_20p" href="/ecommerce-software" title="Best online shopping apps">
+                            <h5 class="wfont">Bloombyte Store</h5></a>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-5 col-sm-12 col-6 dispflex pt-3">
+                    <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-6 foot-linksecom">
+                        <a class="pt_20p" href="/contact" title="Best online shopping apps">
+                            <h5 class="wfont">Contact us</h5></a>
+                    </div>
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-4 col-5 foot-linksecom">
+                        <a class="pt_20p" href="/terms-conditions" title="Best online shopping apps">
+                            <h5 class="wfont">Terms & Conditions</h5></a>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 col-6 foot-linksecom">
+                        <a class="pt_20p" href="/privacy-policy" title="Best online shopping apps">
+                            <h5 class="wfont">Privacy Policy</h5></a>
+                    </div>
+                </div>
+                <div class="col-xxl-2 col-xl-7 col-lg-7 col-12 center pt-3">
+                    <a href="https://www.facebook.com/profile.php?id=61553693674977" class="p-2" target="_blank"><img
+                            src="./images/homepage/facebook.png" alt="Bloombyte Logo" class="zoom" /></a>
+                    <a href="https://www.youtube.com/@BloomByte" class="p-2" target="_blank"><img
+                            src="./images/homepage/youtube.png" alt="Bloombyte Logo" class="zoom" /></a>
+                    <a href="#" class="p-2" target="_blank"><img src="./images/homepage/skype.png" alt="Bloombyte Logo"
+                            class="zoom" /></a>
+                    <a href="#" class="p-2" target="_blank"><img src="./images/homepage/twitter.png"
+                            alt="Bloombyte Logo" class="zoom" /></a>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
