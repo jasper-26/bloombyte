@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.smv.bloombyte",
+                 "sha256_cert_fingerprints": ["7A:83:BA:A8:AA:72:B7:61:D6:76:97:AA:75:1D:76:9C:A9:8E:22:48:0C:69:A0:66:92:B7:3E:EC:4B:12:63:9E"] }
+  }]
